@@ -1,0 +1,13 @@
+{
+ "active": [
+  "conda-forge-pinning",
+  "llvmdev",
+  "pydantic"
+ ],
+ "archived": [],
+ "default_branches": {
+  "conda-forge-pinning": "main",
+  "llvmdev": "main",
+  "pydantic": "main"
+ }
+}
