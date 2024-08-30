@@ -5,5 +5,24 @@
  },
  "links": [],
  "multigraph": false,
- "nodes": []
+ "nodes": [
+  {
+   "id": "conda-forge-pinning",
+   "payload": {
+    "__lazy_json__": "node_attrs/conda-forge-pinning.json"
+   }
+  },
+  {
+   "id": "llvmdev",
+   "payload": {
+    "__lazy_json__": "node_attrs/llvmdev.json"
+   }
+  },
+  {
+   "id": "pydantic",
+   "payload": {
+    "__lazy_json__": "node_attrs/pydantic.json"
+   }
+  }
+ ]
 }
